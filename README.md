@@ -30,6 +30,10 @@ Instead of another cel shader, AnimeRender is being designed as a complete rende
 
 The long-term objective is to provide an extensible rendering framework that artists and developers can integrate into existing tools such as Blender, Unity, Godot, Unreal Engine, or custom engines.
 
+<p align="center">
+    <img src="/banner.jpeg" width="100%">
+</p>
+
 ---
 
 # Planned Features
